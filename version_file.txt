@@ -1,0 +1,36 @@
+﻿VSVersionInfo(
+    ffi=FixedFileInfo(
+        # версия файла и продукта
+        filevers=(1,0,0,0),
+        prodvers=(1,0,0,0),
+        mask=0x3f,
+        flags=0x0,
+        OS=0x4,
+        fileType=0x1,
+        subtype=0x0,
+        date=(0,0)
+    ),
+    kids=[
+        StringFileInfo(
+            [
+                StringTable(
+                    # 0409 = English (United States), 04B0 = CP 1200 (Unicode)
+                    '040904b0',
+                    [
+                        StringStruct('CompanyName',      'Medvedeff'),
+                        StringStruct('FileDescription',  'EzConvert'),
+                        StringStruct('FileVersion',      '1.0.0.0'),
+                        StringStruct('InternalName',     'EzConvert'),
+                        StringStruct('LegalCopyright',   '© 2025 Medvedeff'),
+                        StringStruct('OriginalFilename', 'EzConvert.exe'),
+                        StringStruct('ProductName',      'EzConvert'),
+                        StringStruct('ProductVersion',   '1.0.0.0'),
+                    ]
+                )
+            ]
+        ),
+        VarFileInfo(
+            [VarStruct('Translation', [1033, 1200])]
+        )
+    ]
+)
