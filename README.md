@@ -9,7 +9,7 @@
 ## Основные возможности
 **1.** Почти моментальная конвертация между указанными форматами. (`Скорость больших объёмов фотографий зависит от системы`).<br>
 **2.** Реализован "Drag and Drop" - просто перетащи нужные фотографии на окно приложения и они откроются. (Либо выбери их через кнопку).<br>
-**3.** Предпросмотр каринок - наведи мышку на любую картинку в списке выбранных тобой фотографий и увидишь её миниатюру.<br>
+**3.** Предпросмотр картинок - наведи мышку на любую картинку в списке выбранных тобой фотографий и увидишь её миниатюру.<br>
 [📷 Предпросмотр](https://github.com/user-attachments/assets/d08ed234-e2b4-463a-8b4e-3ef0028a514e)<br>
 **4.** Мультиязычность - при запуске программы вам будет дан выбор языка, на котором будет выполнен весь интерфейс программы.<br>
 [🌐 Поддерживаемые языки](https://github.com/user-attachments/assets/b65561ad-e8cd-41c7-8937-ae6ad0ecc994)<br>
@@ -20,7 +20,7 @@
 
 ## Установка
 **1.** Скачайте архив `EzConvert.zip` по ссылке [Скачать](https://disk.yandex.ru/d/oiFiODFosDBnkQ)<br>
-**2.** Распакуйте `EzConver.exe` в любое удобное для вас место.<br>
+**2.** Распакуйте `EzConvert.exe` в любое удобное для вас место.<br>
 **3.** Запустите программу.<br>
 
 ## Альтернативная установка (На случай проблем со скачиванием или запуском)
@@ -51,7 +51,7 @@ If you too are tired of constantly going to online converters when you need, for
 ## Main features
 **1.** Almost instant conversion between the specified formats. (`Speed for large volumes of photos is system dependent).<br>
 **2.** "Drag and Drop" is implemented - just drag the desired photos to the application window and they will open. (Or select them through the button).<br>
-**3.** Carina preview - hover your mouse over any picture in the list of selected photos and you will see its thumbnail.<br>
+**3.** Photo preview - hover your mouse over any picture in the list of selected photos and you will see its thumbnail.<br>
 [📷 Preview](https://github.com/user-attachments/assets/d08ed234-e2b4-463a-8b4e-3ef0028a514e)<br>
 **4.** Multilanguage - when you start the program you will be given a choice of language in which the whole program interface will be executed.<br>
 [🌐 Supported languages](https://github.com/user-attachments/assets/b65561ad-e8cd-41c7-8937-ae6ad0ecc994)<br>
@@ -62,7 +62,7 @@ If you too are tired of constantly going to online converters when you need, for
 
 ## Installation
 **1.** Download the `EzConvert.zip` archive from [Download](https://disk.yandex.ru/d/oiFiODFosDBnkQ)<br>
-**2.** Unzip `EzConver.exe` to any convenient place for you.<br>
+**2.** Unzip `EzConvert.exe` to any convenient place for you.<br>
 **3.** Run the program.<br>
 
 ## Alternate Installation (In case of download or startup problems)
